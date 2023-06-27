@@ -6,6 +6,7 @@ import './bootstrap';
 //Importo il nostro sass
 import '~resources/scss/app.scss'
 
+
 //Importo il JS di Bootstrap
 import * as bootstrap from 'bootstrap'
 
