@@ -22,6 +22,7 @@
     </main>
 
     <!-- Includo il footer del sito web tramite un partial -->
+    @include ('partials.footerOne')
     @include('partials.footer')
 
     <!-- Assets JS/CSS -->
